@@ -29,6 +29,7 @@
         <module>apm-toolkit-kafka-activation</module>
         <module>apm-toolkit-log4j-1.x-activation</module>
         <module>apm-toolkit-log4j-2.x-activation</module>
+        <module>apm-toolkit-log-jul-java8-activation</module>
         <module>apm-toolkit-logback-1.x-activation</module>
         <module>apm-toolkit-opentracing-activation</module>
         <module>apm-toolkit-trace-activation</module>
